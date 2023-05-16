@@ -16,9 +16,9 @@ The Quiz App is an amazing quiz application that provides an engaging and intera
 
 The following screenshots show the app in action:
 
-![Quiz App Screenshot 1](![image](https://github.com/IsmailDX/Quiz-App_flutter/assets/107717142/36177aed-218f-4825-8969-8e25ea6c1e87))
-![Quiz App Screenshot 2](![image](https://github.com/IsmailDX/Quiz-App_flutter/assets/107717142/5e01e389-e2f9-459e-b5e4-b8a91c7cc084))
-![Quiz App Screenshot 3](![image](https://github.com/IsmailDX/Quiz-App_flutter/assets/107717142/1d47dbde-3062-4606-87dc-afaf7323e866))
+<img src="https://github.com/IsmailDX/Quiz-App_flutter/assets/107717142/771bc2f3-a1a7-4883-957b-ff1b54a5f0b1" alt="screenshot1" width="200" height="400"> 
+<img src="https://github.com/IsmailDX/Quiz-App_flutter/assets/107717142/fb121061-ba88-419e-ad1d-9d814b85f487" alt="screenshot1" width="200" height="400"> 
+<img src="https://github.com/IsmailDX/Quiz-App_flutter/assets/107717142/83d0a451-1651-4cb9-afbc-30a37ea64bbb" alt="screenshot1" width="200" height="400"> 
 
 ## Installation
 
@@ -28,8 +28,4 @@ To run this app on your local machine, follow these steps:
 2. Install Flutter: Follow the [official installation guide](https://flutter.dev/docs/get-started/install).
 3. Run the app: `flutter run`
 
-## Logo
-
-<img src="https://user-images.githubusercontent.com/107717142/236681883-5e6e2285-8995-4702-adb6-fae5a9ee13de.png" alt="logo" width="10%" height="10%" title="Cool right?">
-
-Feel free to use the provided logo in your README.md file.
+<img src="https://github.com/IsmailDX/Quiz-App_flutter/assets/107717142/7634488f-7fb9-4bc3-91a3-514ced0fb54d" alt="logo" width="20%" height="20%" title="Cool right?">
